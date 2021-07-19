@@ -1,0 +1,20 @@
+button {
+  height: 40px;
+  font-size: 18px;
+}
+#containers {
+  /* border: 1px solid red; */
+  margin: 20px;
+  /* display: inline-block; */
+}
+#containers div {
+  background: rgba(128, 121, 18, 0.548);
+  /* padding: 1px; */
+  margin: 10px;
+  width: 30%;
+  height: 150px;
+  text-align: center;
+  font-size: 25px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 10px;
+}
